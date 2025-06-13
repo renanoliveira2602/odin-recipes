@@ -1,3 +1,15 @@
-.list{
-background: aqua;
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    font-family: 20px;
+    background: peru;
 }
+
+.list{
+margin: 20px;
+
+}
+
+.title{
+    background: green;
+    text-align: center;
+    }
